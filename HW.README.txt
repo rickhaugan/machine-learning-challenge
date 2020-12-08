@@ -1,0 +1,6 @@
+The first model performed quickly and efficiently.
+The second model performed accurately as well but took significantly longer.
+
+Yes, this has an accuracy around .85 so these would be good at making predictions. 
+The models may have benefited by reducing some of the columns used to more precise data points.
+
